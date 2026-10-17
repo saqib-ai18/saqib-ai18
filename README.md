@@ -24,7 +24,7 @@ Building intelligent applications, exploring data, and turning ideas into practi
 
 ## 👨‍💻 About Me
 
-I'm an Artificial Intelligence and Machine Learning engineering graduate with an MBA specializing in Artificial Intelligence.
+I'm an Artificial Intelligence and Machine Learning (AI/ML) engineering graduate with a Bachelor of Engineering (B.E.) degree.
 
 I'm passionate about building AI-powered applications, analyzing data, and developing software that solves practical problems.
 
@@ -120,8 +120,7 @@ A computer vision project focused on identifying defects using object detection 
 ## 💼 Experience & Education
 
 - 🎓 **Education:** Bachelor of Engineering in Artificial Intelligence and Machine Learning.
-- 🎓 **Postgraduate Education:** Master of Business Administration specializing in Artificial Intelligence.
-- 💻 **Internship:** Data Science Intern at Take it smart (OPC) Private Limited, working on an AI Data Analyst Chatbot using Python, Streamlit, LangChain, and Pandas.
+- 💻 **Internship:** Data Science Intern at Take it smart (OPC) Private Limited, working on an AI Data Analyst Chatbot using Python, Streamlit, LangChain, Pandas, groqAPI.
 
 ---
 
