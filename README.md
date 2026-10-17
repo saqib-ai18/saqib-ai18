@@ -11,13 +11,15 @@ Building intelligent applications, exploring data, and turning ideas into practi
 <div align="center">
 
 <a href="https://saqib-portfolio-psi.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/saqib-kolkar-3222a6379/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="https://github.com/saqib-ai18">
-  <img src="https://img.shields.io/badge/GitHub-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
