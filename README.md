@@ -80,7 +80,24 @@ My interests include Generative AI, Large Language Models, Machine Learning, Com
 
 ## 🚀 Featured Projects
 
-### 🤖 1. AI Data Analyst Chatbot
+### ⚡ 1. CHURNIQ – Intelligent Customer Churn Analytics
+
+An end-to-end Machine Learning application that predicts customer churn, analyzes customer behavior, identifies high-risk customers, and generates AI-powered business insights.
+
+Key Features:
+- Interactive customer analytics dashboard.
+- Customer churn prediction using Logistic Regression and XGBoost.
+- Customer risk classification and probability analysis.
+- Model performance comparison.
+- AI-powered business analysis using NVIDIA Nemotron.
+- Actionable business insights and recommendations.
+
+Tech Stack: Python · Pandas · Scikit-learn · XGBoost · Streamlit · Plotly · NVIDIA Nemotron
+
+- 🌐 [Live Demo](https://churniq-ai18.streamlit.app/)
+- 💻 [Source Code](https://github.com/saqib-ai18/customer-churn-prediction)
+
+### 🤖 2. AI Data Analyst Chatbot
 
 An AI-powered conversational analytics application that enables users to upload CSV or Excel datasets and ask questions in natural language.
 
@@ -91,7 +108,7 @@ The application combines Pandas-based analysis with NVIDIA Nemotron to support s
 - 🌐 **[Live Demo](https://ai-data-analyst-vbxursw8daupwmytt9ddz6.streamlit.app/)**
 - 💻 **[Source Code](https://github.com/saqib-ai18/ai-data-analyst)**
 
-### 🌐 2. Personal Portfolio Website
+### 🌐 3. Personal Portfolio Website
 
 A responsive portfolio website built to showcase my background, technical skills, projects, and experience.
 
@@ -102,7 +119,7 @@ Features a dark cyber-inspired interface, interactive 3D particle effects, anima
 - 🌐 **[Live Website](https://saqib-portfolio-psi.vercel.app/)**
 - 💻 **[Source Code](https://github.com/saqib-ai18/saqib-portfolio)**
 
-### 🏋️ 3. Gymnastics SaaS Application
+### 🏋️ 4. Gymnastics SaaS Application
 
 A full-stack application concept focused on a gymnastics platform, incorporating backend APIs, structured data storage, and payment integration.
 
@@ -110,7 +127,7 @@ A full-stack application concept focused on a gymnastics platform, incorporating
 
 - 💻 **[Explore My GitHub Repositories](https://github.com/saqib-ai18)**
 
-### 🧠 4. Automated Defect Detection
+### 🧠 5. Automated Defect Detection
 
 A computer vision project focused on identifying defects using object detection and analyzing model results.
 
