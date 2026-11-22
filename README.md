@@ -108,7 +108,32 @@ The application combines Pandas-based analysis with NVIDIA Nemotron to support s
 - 🌐 **[Live Demo](https://ai-data-analyst-vbxursw8daupwmytt9ddz6.streamlit.app/)**
 - 💻 **[Source Code](https://github.com/saqib-ai18/ai-data-analyst)**
 
-### 🌐 3. Personal Portfolio Website
+### 🌐 3. Personal Portfolio V3
+
+A modern personal portfolio website built to showcase my technical skills, projects, and professional background with a responsive interface.
+
+**Tech Stack:** HTML5 · CSS3 · JavaScript
+
+- 🌐 **[Live Demo](https://saqib-portfolio-v3.vercel.app/)**
+- 💻 **[Source Code](https://github.com/saqib-ai18/saqib-portfolio-v3)**
+
+### 🧠 4. Automated Defect Detection System
+
+A computer vision project focused on identifying defects using object detection and analyzing model results.
+
+**Tech Stack:** PyTorch · YOLO · NumPy · Matplotlib · Django
+
+- 💻 **[Explore My GitHub Repositories](https://github.com/saqib-ai18)**
+
+### 🏥 5. MediTrack Pro – AI-Integrated Hospital Management System
+
+An AI-integrated hospital management system designed to support healthcare management through technology-driven solutions.
+
+**Tech Stack:** TypeScript
+
+- 💻 **[Source Code](https://github.com/saqib-ai18/PumpOS)**
+
+### 💻 6. Personal Portfolio Website
 
 A responsive portfolio website built to showcase my background, technical skills, projects, and experience.
 
@@ -117,38 +142,7 @@ Features a dark cyber-inspired interface, interactive 3D particle effects, anima
 **Tech Stack:** React · Vite · JavaScript · CSS · Three.js · React Three Fiber
 
 - 🌐 **[Live Website](https://saqib-portfolio-psi.vercel.app/)**
-- 💻 **[Source Code](https://github.com/saqib-ai18/saqib-portfolio)**
-
-### 🏥 4. MediTrack Pro – AI-Integrated Hospital Management System
-
-An AI-integrated hospital management system designed to support healthcare management through technology-driven solutions.
-
-**Tech Stack:** TypeScript
-
-- 💻 **[Source Code](https://github.com/saqib-ai18/PumpOS)**
-
-### 💻 5. Personal Portfolio V3
-
-A modern personal portfolio website built to showcase my technical skills, projects, and professional background with a responsive interface.
-
-**Tech Stack:** HTML5 · CSS3 · JavaScript
-
-- 💻 **[Source Code](https://github.com/saqib-ai18/saqib-portfolio-v3)**
-
-### 🧠 6. Automated Defect Detection
-
-A computer vision project focused on identifying defects using object detection and analyzing model results.
-
-**Tech Stack:** PyTorch · YOLO · NumPy · Matplotlib · Django
-
-- 💻 **[Explore My GitHub Repositories](https://github.com/saqib-ai18)**
-
-## 💼 Experience & Education
-
-- 🎓 **Education:** Bachelor of Engineering in Artificial Intelligence and Machine Learning.
-- 💻 **Internship:** Data Science Intern at Take it smart (OPC) Private Limited, working on an AI Data Analyst Chatbot using Python, Streamlit, LangChain, Pandas, groqAPI.
-
----
+- 💻 **[Source Code](https://github.com/saqib-ai18/saqib-portfolio)**-
 
 ## 📊 GitHub Activity
 
