@@ -119,23 +119,29 @@ Features a dark cyber-inspired interface, interactive 3D particle effects, anima
 - 🌐 **[Live Website](https://saqib-portfolio-psi.vercel.app/)**
 - 💻 **[Source Code](https://github.com/saqib-ai18/saqib-portfolio)**
 
-### 🏋️ 4. Gymnastics SaaS Application
+### 🏥 4. MediTrack Pro – AI-Integrated Hospital Management System
 
-A full-stack application concept focused on a gymnastics platform, incorporating backend APIs, structured data storage, and payment integration.
+An AI-integrated hospital management system designed to support healthcare management through technology-driven solutions.
 
-**Tech Stack:** Django · React · PostgreSQL · REST APIs · AWS · Docker
+**Tech Stack:** TypeScript
 
-- 💻 **[Explore My GitHub Repositories](https://github.com/saqib-ai18)**
+- 💻 **[Source Code](https://github.com/saqib-ai18/PumpOS)**
 
-### 🧠 5. Automated Defect Detection
+### 💻 5. Personal Portfolio V3
+
+A modern personal portfolio website built to showcase my technical skills, projects, and professional background with a responsive interface.
+
+**Tech Stack:** HTML5 · CSS3 · JavaScript
+
+- 💻 **[Source Code](https://github.com/saqib-ai18/saqib-portfolio-v3)**
+
+### 🧠 6. Automated Defect Detection
 
 A computer vision project focused on identifying defects using object detection and analyzing model results.
 
 **Tech Stack:** PyTorch · YOLO · NumPy · Matplotlib · Django
 
 - 💻 **[Explore My GitHub Repositories](https://github.com/saqib-ai18)**
-
----
 
 ## 💼 Experience & Education
 
